@@ -1,6 +1,7 @@
-# UCI campus study-space recommendation system
-
+# Campus study-space recommendation system
+Built a UCI campus study-space  recommendation system  using real-time contextual data and user preferences.
 This project is a fork of [the original repo](https://github.com/vidhyap22/125-study-spot-finder).
+
 I  mainly contributed:
 - Implemented components of a real-time data pipeline, integrating traffic and weather data with automated updates for improved
 data freshness.
